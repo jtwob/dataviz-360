@@ -1,0 +1,27 @@
+body {
+  background-color: #111111;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+#header {
+  color: #777;
+  text-align: center;
+}
+
+#resume {
+  padding-left: 10%;
+  margin-top: auto;
+  color: #777;
+}
+
+#ul-wrapper {
+  color: #777;
+  padding-left: 15%;
+}
